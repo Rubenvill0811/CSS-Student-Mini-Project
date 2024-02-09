@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f9ea;
+}
+
+.title-header h1{
+    display: flex;
+   justify-content: center;
+   color: #4ab503;
+}
+
+.title-header p{
+    display: flex;
+    justify-content: center;
+}
+
